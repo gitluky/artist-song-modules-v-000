@@ -2,7 +2,11 @@ module Memorable
 
   module InstanceMethods
 
+
+
   end
+
+##########CLASS METHODS#########
 
   module ClassMethods
 
