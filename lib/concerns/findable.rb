@@ -1,6 +1,6 @@
 module Findable
 
-  ######### INSTANCE METHODS #########
+######### INSTANCE METHODS #########
 
   module InstanceMethods
 
@@ -8,9 +8,10 @@ module Findable
 
   end
 
-  ########## CLASS METHODS ##########
+########## CLASS METHODS ##########
 
   module ClassMethods
+
 
 
   end
