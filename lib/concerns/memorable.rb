@@ -1,5 +1,7 @@
 module Memorable
 
+######### INSTANCE METHODS #########
+
   module InstanceMethods
 
 
