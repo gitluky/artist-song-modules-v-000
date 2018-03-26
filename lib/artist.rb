@@ -31,6 +31,3 @@ class Artist
   end
 
 end
-
-artist = Artist.new
-binding.pry
