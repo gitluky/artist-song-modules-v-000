@@ -8,7 +8,7 @@ module Memorable
 
   end
 
-##########CLASS METHODS#########
+########## CLASS METHODS #########
 
   module ClassMethods
 
