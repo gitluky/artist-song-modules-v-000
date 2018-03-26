@@ -1,4 +1,8 @@
-module memorable
+module Memorable
 
+  module ClassMethods
+
+
+  end
 
 end
