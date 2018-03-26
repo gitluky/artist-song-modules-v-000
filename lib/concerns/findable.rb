@@ -5,6 +5,7 @@ module Findable
   module InstanceMethods
 
 
+
   end
 
   ########## CLASS METHODS ##########
