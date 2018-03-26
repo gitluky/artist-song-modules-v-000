@@ -1,7 +1,7 @@
-module findable
+module Findable
 
   ######### INSTANCE METHODS #########
-  
+
   module InstanceMethods
 
 
